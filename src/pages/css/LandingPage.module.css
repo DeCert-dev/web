@@ -1,0 +1,669 @@
+.bGIcon {
+  position: absolute;
+  width: 886px;
+  height: 886px;
+  left: -443px;
+  top: 5849px;
+  filter: blur(120px);
+}
+.bGIcon1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  position: absolute;
+  left: -56px;
+  top: 388.14px;
+  transform: rotate(-1.42deg);
+}
+.bGIcon2 {
+  position: absolute;
+  width: 886px;
+  height: 1086px;
+  right: 0px;
+  top: 1965px;
+  filter: blur(120px);
+}
+
+.bGIcon4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+
+  position: absolute;
+  width: 886px;
+  height: 886px;
+  right: -100px;
+  top: -97px;
+  filter: blur(120px);
+}
+.bGIcon5 {
+  position: absolute;
+  width: 886px;
+  height: 886px;
+  left: -165px;
+  top: 3677px;
+  filter: blur(120px);
+}
+.div {
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  background-color: rgba(98, 98, 98, 0.4);
+  backdrop-filter: blur(24px);
+  height: 110px;
+}
+.deCert1Icon {
+  position: relative;
+  width: 73px;
+  height: 65px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.homeDiv {
+  position: relative;
+  font-weight: 100;
+  display: inline-block;
+}
+.navHomeDiv {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navnavMenueDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navnavMenueDiv > * + * {
+  margin-left: 20px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 31px;
+  background: linear-gradient(138.68deg, #1260fd, rgba(132, 12, 226, 0.33));
+  width: 206px;
+  height: 53px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 31px;
+  background: linear-gradient(138.68deg, #1260fd, #840ce2);
+  width: 206px;
+  height: 53px;
+}
+.loginSingup {
+  position: absolute;
+  top: 13px;
+  left: 70px;
+  font-weight: 200;
+  display: inline-block;
+}
+.connectBtnDiv {
+  position: relative;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  width: 206px;
+  height: 53px;
+  flex-shrink: 0;
+  cursor: pointer;
+  font-size: 22px;
+}
+.frameDiv {
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  height: 110px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 89px 0px 106px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.navBarDiv {
+  position: absolute;
+  width: 100%;
+  top: 1px;
+  right: 0px;
+  left: 0px;
+  height: 110px;
+  font-size: 26px;
+  font-family: Roboto;
+}
+.whatAreWe1 {
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+
+  /* test */
+}
+.frameDiv1 {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 203px - 29.5px);
+  width: 406px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.loremIpsumDolorSitAmetCo {
+  position: absolute;
+  top: 294px;
+  left: calc(50% - 423.5px - 363px);
+  font-size: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 847px;
+  height: 382px;
+}
+.casualLife3dGirlAndBoySiIcon {
+  position: absolute;
+  top: 256px;
+  left: calc(50% - 316px - -470.5px);
+  width: 632px;
+  height: 397px;
+  object-fit: cover;
+}
+.whatAreWe {
+  position: absolute;
+  top: 2175px;
+  left: calc(50% - 786.5px - -31.5px);
+  width: 1573px;
+  height: 676px;
+  font-size: 77px;
+}
+.featuresDiv1 {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 143px - -7px);
+  font-size: 77px;
+  font-weight: 200;
+  display: inline-block;
+  width: 286px;
+  height: 126.76px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 30.17px;
+  left: calc(50% - 295.5px - 0px);
+  border-radius: 20px;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0)
+    ),
+    rgba(255, 255, 255, 0.3);
+  width: 591px;
+  height: 761.64px;
+}
+.loremIpsumDolorSitAmetCo1 {
+  position: absolute;
+  top: 588.16px;
+  left: calc(50% - 268px - -14.5px);
+  font-weight: 200;
+  display: inline-block;
+  width: 536px;
+  height: 148.43px;
+}
+.certificateOwnershipInBlock {
+  position: absolute;
+  top: 484.13px;
+  left: calc(50% - 250px - 3.5px);
+  font-size: 33px;
+  font-weight: 300;
+  display: inline-block;
+  width: 500px;
+  height: 54.17px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.casualLife3dRewardBadgeWiIcon {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 204.5px - 3px);
+  width: 409px;
+  height: 434px;
+  object-fit: cover;
+}
+.card1Div {
+  position: absolute;
+  top: 232px;
+  left: calc(50% - 295.5px - 474.5px);
+  width: 591px;
+  height: 791.81px;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 60.35px;
+  left: calc(50% - 295.5px - 0px);
+  border-radius: 20px;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0)
+    ),
+    rgba(255, 255, 255, 0.3);
+  width: 591px;
+  height: 761.64px;
+}
+.loremIpsumDolorSitAmetCo2 {
+  position: absolute;
+  top: 612.92px;
+  left: calc(50% - 268px - -11.5px);
+  font-weight: 200;
+  display: inline-block;
+  width: 536px;
+  height: 148.43px;
+}
+.casualLife3dWomanTakingAIcon {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 258.5px - -37px);
+  width: 517px;
+  height: 521px;
+  object-fit: cover;
+}
+.card3Div {
+  position: absolute;
+  top: 1503px;
+  left: calc(50% - 295.5px - 458.5px);
+  width: 591px;
+  height: 821.99px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 58.87px;
+  left: calc(50% - 295.5px - 0px);
+  border-radius: 20px;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0)
+    ),
+    rgba(255, 255, 255, 0.3);
+  width: 591px;
+  height: 761.64px;
+}
+.loremIpsumDolorSitAmetCo3 {
+  position: absolute;
+  top: 578.91px;
+  left: calc(50% - 268px - -12.5px);
+  font-weight: 200;
+  display: inline-block;
+  width: 536px;
+  height: 148.43px;
+}
+.neverLoseYourCertificate {
+  position: absolute;
+  top: 487.91px;
+  left: calc(50% - 187.5px - 0px);
+  font-size: 33px;
+  font-weight: 300;
+  display: inline-block;
+  width: 375px;
+  height: 54.17px;
+}
+.casualLife3dDiplomaCertifiIcon {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 217.5px - -11px);
+  width: 435px;
+  height: 463px;
+  object-fit: cover;
+}
+.card2Div {
+  position: absolute;
+  top: 836px;
+  left: calc(50% - 295.5px - -474.5px);
+  width: 591px;
+  height: 820.51px;
+}
+.easyToUseAPI {
+  position: absolute;
+  top: 2023.84px;
+  left: calc(50% - 109px - 459px);
+  font-size: 33px;
+  font-weight: 300;
+  display: inline-block;
+  width: 218px;
+  height: 54.17px;
+}
+.dividerIcon {
+  position: absolute;
+  top: 473.45px;
+  left: calc(50% - 19px - -27px);
+  width: 38px;
+  height: 1663.07px;
+}
+.featuresDiv {
+  position: absolute;
+  top: 2888px;
+  left: calc(50% - 770px - -10px);
+  width: 1540px;
+  height: 2324.99px;
+}
+.fAQsDiv {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 60px - -7px);
+  font-weight: 300;
+  display: inline-block;
+}
+.frameDiv2 {
+  position: absolute;
+  width: calc(100% - 1243px);
+  top: 0px;
+  right: 629px;
+  left: 614px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 88px;
+}
+.whatIsDeCert {
+  position: relative;
+  font-weight: 200;
+  display: inline-block;
+  width: 510.42px;
+}
+.lineDiv {
+  position: relative;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+  width: 1411px;
+  height: 1px;
+  flex-shrink: 0;
+}
+.weAreProvingASimpleFastA {
+  position: relative;
+  font-size: 43px;
+  font-weight: 200;
+  text-align: left;
+  display: inline-block;
+  width: 1390px;
+}
+.whatAreWe2 {
+  position: absolute;
+  top: 302px;
+  left: calc(50% - 705px - -20.5px);
+  height: 353px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.canWeTransferOurCertificat {
+  position: absolute;
+  top: 1459px;
+  left: calc(50% - 705px - 20.5px);
+  height: 290px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.lineIcon {
+  position: relative;
+  max-height: 100%;
+  width: 1410px;
+}
+.whyShouldIUseIt {
+  position: absolute;
+  top: 730px;
+  left: calc(50% - 705px - -5.5px);
+  height: 359px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.whereAreMyCertificatesStor {
+  position: absolute;
+  top: 1133px;
+  left: calc(50% - 705px - 10.5px);
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.fAQDiv {
+  position: absolute;
+  width: calc(100% - 277px);
+  top: 5459px;
+  right: 155px;
+  left: 122px;
+  height: 1749px;
+  text-align: center;
+  font-size: 76px;
+}
+.deCert112 {
+  position: relative;
+  width: 258px;
+  height: 233.79px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image30Icon {
+  position: relative;
+  width: 67px;
+  height: 67px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image24Icon {
+  position: relative;
+  width: 144px;
+  height: 218px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image29Icon {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image26Icon {
+  position: relative;
+  width: 173px;
+  height: 173px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image25Icon {
+  position: relative;
+  width: 175px;
+  height: 175px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.midDiv {
+  position: absolute;
+  width: calc(100% - 439px);
+  top: 1399px;
+  right: 268px;
+  left: 171px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.rightsReservedToDeCert20 {
+  position: relative;
+  font-weight: 100;
+  display: inline-block;
+  width: 390px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.deCert1121 {
+  position: relative;
+  width: 122px;
+  height: 114px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image32Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.image34Icon {
+  position: absolute;
+  top: 9px;
+  left: 166px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.image35Icon {
+  position: absolute;
+  top: 3px;
+  left: 82px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.groupDiv {
+  position: relative;
+  width: 224px;
+  height: 67px;
+  flex-shrink: 0;
+}
+.footerDiv {
+  position: absolute;
+  width: 100%;
+  top: 7428px;
+  right: 0px;
+  left: 0px;
+  background-color: rgba(98, 98, 98, 0.4);
+  backdrop-filter: blur(24px);
+  display: flex;
+  flex-direction: row;
+  padding: 92px 106px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Roboto;
+}
+.casualLife3dBooksAndGraduIcon {
+  position: relative;
+  width: 293px;
+  height: 192px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.casualLife3dYoungWomanPraIcon {
+  position: relative;
+  width: 524px;
+  height: 486px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heroImageDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.decentralizedCertificateDiv {
+  position: absolute;
+  top: 192px;
+  right: 0px;
+  display: inline-block;
+  width: 444px;
+  height: 53px;
+}
+.deCertSpan {
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap');
+  font-weight: 300;
+  font-size: 183px;
+  font-style: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+.span {
+  @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+  font-size: 120px;
+  font-weight: 400;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+.deCertDiv {
+  position: absolute;
+  top: 0px;
+  right: 16.67px;
+  display: inline-block;
+  width: 673.33px;
+  height: 192.18px;
+  font-size: 183px;
+  font-family: Montserrat;
+}
+.txtHolderDiv {
+  position: absolute;
+  top: 83px;
+  right: 0px;
+  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  width: 690px;
+  height: 245px;
+}
+.deCert2Icon {
+  position: absolute;
+  top: -1px;
+  right: 300px;
+  width: 115px;
+  height: 102px;
+  object-fit: cover;
+}
+.landingHeroDiv {
+  position: relative;
+  width: 690px;
+  height: 328px;
+  flex-shrink: 0;
+}
+.heroFrameDiv {
+  position: absolute;
+  top: 303px;
+  left: calc(50% - 755px - 30px);
+  width: 1510px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 40px;
+  font-family: Baloo Bhai 2;
+}
+.landingPageDiv {
+  position: relative;
+  background-color: #222;
+  width: 100%;
+  height: 7726px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 21px;
+  color: #fff;
+  font-family: Titillium Web;
+}

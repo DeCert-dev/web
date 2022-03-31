@@ -1,0 +1,96 @@
+.certificatesText {
+  position: relative;
+  display: inline-block;
+}
+.frameContainer1 {
+  position: absolute;
+  top: 84px;
+  left: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.undrawBlankCanvas3Rbb1 {
+  position: relative;
+  width: 385px;
+  height: 325px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.nothingPresentText {
+  position: relative;
+  display: inline-block;
+  margin-top: 41px;
+}
+.nothingContainer {
+  position: absolute;
+  top: 346px;
+  left: calc(50% - 192.5px - 0.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 50px;
+  color: #aaa6a6;
+}
+.image20Icon {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.logoutText {
+  position: relative;
+  display: inline-block;
+  margin-left: 16px;
+}
+.frameContainer {
+  position: absolute;
+  top: 94px;
+  right: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 25px;
+  color: #fff;
+}
+.userDashboardBlank {
+  position: relative;
+  background-color: #262427;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 47px;
+  color: #e5e5e5;
+  font-family: Roboto;
+}
+
+.presentContainer {
+  position: absolute;
+  top: 280px;
+  padding-left: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.purple {
+  flex: 1 0 21%;
+  margin: 5px;
+}
+
+.fix {
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  position: relative;
+  display: inline-block;
+  margin-left: 16px;
+  font-size: 25px;
+}
